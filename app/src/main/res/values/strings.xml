@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FlexibleFragment</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="headtext">Faces</string>
+
+
+   <string-array name="title">
+       <item>Happy Face</item>
+       <item>Mad Face</item>
+       <item>Sad Face</item>
+       <item>Scare Face</item>
+   </string-array>
+
+    <array name="description">
+        <item>@drawable/happy</item>
+        <item>@drawable/mad</item>
+        <item>@drawable/scare</item>
+        <item>@drawable/sad</item>
+    </array>
+
+</resources>
